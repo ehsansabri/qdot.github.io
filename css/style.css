@@ -305,8 +305,8 @@ hr {
   width:100%;
   height:100%;
 	position:relative;
-
 	background: url(../img/solderx_new.jpg) no-repeat top center;
+  background-size: contain;
 }
 
 #intro.intro {
